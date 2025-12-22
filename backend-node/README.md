@@ -292,4 +292,4 @@ Focus Areas: IAM · Application Security · Cloud Security · SOC Operations
 
 ## ⭐ Notes
 
-If you find this project useful, feel free to star the repository or fork it for learning purposes..
+If you find this project useful, feel free to star the repository or fork it for learning purposes.
